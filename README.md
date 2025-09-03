@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Desafio de Documentação com Azure AI Studio (DIO)
 
 ## 🌐 Visão Geral do Projeto
@@ -70,5 +69,4 @@ Quero levar esse conhecimento adiante em projetos práticos, como:
 
 > 📌 Este repositório é uma prova viva de que aprender IA não precisa ser algo distante ou complicado. Quando documentamos com propósito, transformamos cada teste em conhecimento útil.
 
-Feito por SarahSSM1
-```
+Feito por SarahSSM1 💜✨
